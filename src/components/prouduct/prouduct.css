@@ -1,0 +1,11 @@
+.product-area{
+    display: flex;
+ 
+}
+.product-left{
+  margin-left:100px;
+  width: 70%;
+  border-right: 1px solid darkgray;
+  margin-right: 5px;
+ 
+}

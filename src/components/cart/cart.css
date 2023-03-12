@@ -1,0 +1,17 @@
+
+.product-right{
+    padding:5px;
+  }
+  .product-right button{
+    background-color: goldenrod;
+    text-align: center;
+    padding:8px 35px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    text-transform: capitalize;
+  }
+  table tbody tr:last-child{
+    color: goldenrod;
+   font-weight: 700;
+   margin-top: 10px;
+  }

@@ -1,0 +1,29 @@
+.parent{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.prouduct-image{
+    padding: 20px;
+}
+.product-text{
+    width:90%;
+}
+.price{
+    display: flex;
+}
+.future{
+    display: flex;
+}
+.product-text h2{
+    color: blue;
+}
+.cartButton{
+background-color: goldenrod;
+
+ border:1px solid gray;
+ border-radius: 5px;
+ padding: 5px 50px;
+ margin: 10px 0;
+ cursor: pointer;
+}
+

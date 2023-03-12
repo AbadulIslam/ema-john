@@ -1,0 +1,23 @@
+.logo img{
+ 
+    height: 80px;
+}
+.logo {
+    text-align: center;
+}
+nav ul{
+    background-color: black;
+    line-height: 40px;
+   
+
+}
+nav ul a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
+nav ul a:hover{
+    background-color: lightgray;
+}
