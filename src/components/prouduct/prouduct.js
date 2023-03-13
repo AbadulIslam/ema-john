@@ -9,7 +9,7 @@ import './prouduct.css';
  
 
 const Prouduct = () => {
-    console.log(fakeData);
+  
     const fakeSlice=fakeData.slice(0,10);
     const [products,setProducts]=useState(fakeSlice);
     const [cartStatus,setCart]=useState([]);
